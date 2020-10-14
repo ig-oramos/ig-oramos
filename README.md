@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá
 
 <!--
 **ig-oramos/ig-oramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas</p>
+<p>Estou trabalhando em um projeto e aprendendo um pouco mais sobre a biblioteca React e o framework PHP Laravel.</p>
+
+Meu site pessoal: http://igorgomes.000webhostapp.com
+LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
