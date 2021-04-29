@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <p>Estou trabalhando em um projeto e aprendendo um pouco mais sobre a biblioteca React e o framework PHP Laravel.</p>
 <p>Estou buscando uma oportunidade de estágio na área de tecnologia.</p>
 
-Meu site pessoal: http://igorgomes.000webhostapp.com
-LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
+#### Contato
+- Meu site pessoal: http://igorgomes.000webhostapp.com
+- LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
