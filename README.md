@@ -1,5 +1,6 @@
 
-###![Hey, it's me Goku](GokuHey.gif) Hi, nice to have you here, welcome to my profile
+<img src="GokuHey.gif" alt="Hey, it's me Goku (gif)" width="200px"></img>
+# Hi, nice to have you here, welcome to my profile
 
 <!--
 **ig-oramos/ig-oramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
