@@ -1,4 +1,5 @@
-### Olá
+
+###![Hey, it's me Goku](GokuHey.gif) Hi, nice to have you here, welcome to my profile
 
 <!--
 **ig-oramos/ig-oramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas</p>
-<p>Estou trabalhando em um projeto e aprendendo um pouco mais sobre a biblioteca React e o framework PHP Laravel.</p>
-<p>Estou buscando uma oportunidade de estágio na área de tecnologia.</p>
+## About me
+I'm currently studying Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
+I'm looking for a job in the web developer role, but I'm open to different roles.
+I have academic and personal experience with PHP, HTML, CSS and JavaScript.
 
-#### Contato
+---
+
+## How to find me
 - Meu site pessoal: http://igorgomes.000webhostapp.com
 - LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
