@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I'm currently studying Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
-I'm looking for a job in the web developer role, but I'm open to different roles.
-I have academic and personal experience with PHP, HTML, CSS and JavaScript.
+- I'm currently studying Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
+- I'm looking for a job in the web developer role, but I'm open to different roles.
+- I have academic and personal experience with PHP, HTML, CSS and JavaScript.
 
 ---
 
