@@ -1,5 +1,5 @@
 
-<img src="GokuHey.gif" alt="Hey, it's me Goku (gif)" width="200px"></img>
+<img src="images/GokuHey.gif" alt="Hey, it's me Goku (gif)" width="200px"></img>
 # Hi, nice to have you here, welcome to my profile
 
 <!--
