@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ## How to find me
-- Meu site pessoal: http://igorgomes.000webhostapp.com
+- My personal website: http://igorgomes.000webhostapp.com
 - LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-g-o-ramos-4637b1178">
