@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-- I have a degree in Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
+- I have a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
 - I'm looking for a job in the web developer role, but I'm open to different roles as well.
 - I have academic and personal experience with PHP, HTML, CSS and JavaScript.
 
