@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-- I'm currently studying Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
-- I'm looking for a job in the web developer role, but I'm open to different roles.
+- I have a degree in Systems Analysis and Development at FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
+- I'm looking for a job in the web developer role, but I'm open to different roles as well.
 - I have academic and personal experience with PHP, HTML, CSS and JavaScript.
 
 ---
 
 ## How to find me
-- My personal website: http://igorgomes.000webhostapp.com
 - LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-g-o-ramos-4637b1178">
