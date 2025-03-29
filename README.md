@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 -->
 ## About me
 - I have a degree in Systems Analysis and Development from FATEC Ferraz de Vasconcelos in the state of São Paulo - Brazil.
-- I have academic and personal experience with PHP, HTML, CSS and JavaScript.
+- I've got some experience with programming and I'm looking forward to effectively work with it.
+- I'm also an enthusiast of IT infraestructure and computer networks.
 
 ---
 
-## How to find me
-- LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos-4637b1178
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/igor-g-o-ramos
 <div align="center">
-  <a href="https://www.linkedin.com/in/igor-g-o-ramos-4637b1178">
+  <a href="https://ig-oramos.github.io">
     <img src="images/icon-ini.png" alt="My logo" width="200">
   </a>
 </div>
